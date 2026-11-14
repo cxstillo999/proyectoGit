@@ -9,3 +9,5 @@ Este repositorio permite practicar el trabajo organizado con control de versione
 Este repositorio permite practicar el trabajo organizado con control de versiones.
 ## Cambios de la rama
 Esta sección fue agregada desde la rama feature/documentacion.
+## sincronizacion
+este cambio se realizo desde una copia clonada del repositorio 
